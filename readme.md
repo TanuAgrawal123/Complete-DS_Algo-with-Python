@@ -34,7 +34,7 @@
 
 **Details**:
 
- - Read Chapter 3 On Algorith Analysis from Data Structures and Algorithms in Python by Goodrich
+ - Read Chapter 3 On Algorithm Analysis from Data Structures and Algorithms in Python by Goodrich
  - Solved two problems of array from Leetcode(two sums,Remove duplicates from sorted array)
  - Read Revision [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
  - [ ] TopCoder (includes recurrence relations and master theorem):
