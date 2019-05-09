@@ -5,6 +5,8 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **07/05/19**| Object Oriented programming in python and leetcode problems on array|[Day 2](#day-2) **08/05/19**|Algorithm analysis and leetcode problems on array |
+|[Day 3](#day-3) **09/05/19**| Arrays Based Sequence in python and leetcode problems on array|[Day 4](#day-4) **10/05/19**| |
+
 
 <a name="day-1"></a>
  
@@ -24,7 +26,7 @@
 [Table of Contents](#toc)
 
 
-<a name="day-1"></a>
+<a name="day-2"></a>
  
 ### Day 2: May 08, 2019 
 
@@ -44,3 +46,19 @@
 
 [Table of Contents](#toc)
 
+<a name="day-3"></a>
+ 
+### Day 3: May 09, 2019 
+
+**Today's Focus**: Arrays Based Sequence in python and leetcode problems on array
+
+**Details**:
+
+ - Read Chapter 5 On Array Based Sequence (read about referencial array.compact array concept And implementation of Dynamic Array) from Data Structures and Algorithms in Python by Goodrich
+ - Solved two problems of array from Leetcode(Search insert position, merge sorted array)
+ 
+
+
+**Link to work**: [here](https://leetcode.com/tanuagrawal/)
+
+[Table of Contents](#toc)
