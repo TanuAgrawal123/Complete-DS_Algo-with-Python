@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **07/05/19**| Object Oriented programming in python and leetcode problems on array|[Day 2](#day-2) **08/05/19**|Algorithm analysis and leetcode problems on array |
-|[Day 3](#day-3) **09/05/19**| Arrays Based Sequence in python and leetcode problems on array|[Day 4](#day-4) **10/05/19**| |
+|[Day 3](#day-3) **09/05/19**| Arrays Based Sequence in python and leetcode problems on array|[Day 4](#day-4) **10/05/19**|Arrays Based Sequence in python |
 
 
 <a name="day-1"></a>
@@ -60,5 +60,21 @@
 
 
 **Link to work**: [here](https://leetcode.com/tanuagrawal/)
+
+[Table of Contents](#toc)
+
+
+<a name="day-4"></a>
+ 
+### Day 4: May 10, 2019 
+
+**Today's Focus**: Arrays Based Sequence in python
+
+**Details**:
+
+ - Read Chapter 5 On Array Based Sequence (Implemntation of Dynamic array, amortized analysis of dynamic array, asymptotic performance of immutable tuple classes and mutable list classes, insertion and removing of element in list, construction of new list) from Data Structures and Algorithms in Python by Goodrich
+ 
+
+**Link to work**: [N/A](#)
 
 [Table of Contents](#toc)
