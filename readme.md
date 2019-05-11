@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **07/05/19**| Object Oriented programming in python and leetcode problems on array|[Day 2](#day-2) **08/05/19**|Algorithm analysis and leetcode problems on array |
 |[Day 3](#day-3) **09/05/19**| Arrays Based Sequence in python and leetcode problems on array|[Day 4](#day-4) **10/05/19**|Arrays Based Sequence in python |
-
+|[Day 5](#day-5) **11/05/19**| Arrays Based Sequence in python |[Day 6](#day-6) **12/05/19**| |
 
 <a name="day-1"></a>
  
@@ -76,5 +76,21 @@
  
 
 **Link to work**: [N/A](#)
+
+[Table of Contents](#toc)
+
+
+<a name="day-5"></a>
+ 
+### Day 5: May 11, 2019 
+
+**Today's Focus**: Arrays Based Sequence in python
+
+**Details**:
+
+ - Read Chapter 5 On Array Based Sequence (Implemntation of Dynamic array, Sorting a sequence cryptography problem using list and Multidimensional data set) from Data Structures and Algorithms in Python by Goodrich
+ 
+
+**Link to work**: [N/A](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/array.ipynb)
 
 [Table of Contents](#toc)
