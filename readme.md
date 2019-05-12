@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **07/05/19**| Object Oriented programming in python and leetcode problems on array|[Day 2](#day-2) **08/05/19**|Algorithm analysis and leetcode problems on array |
 |[Day 3](#day-3) **09/05/19**| Arrays Based Sequence in python and leetcode problems on array|[Day 4](#day-4) **10/05/19**|Arrays Based Sequence in python |
-|[Day 5](#day-5) **11/05/19**| Arrays Based Sequence in python |[Day 6](#day-6) **12/05/19**| |
+|[Day 5](#day-5) **11/05/19**| Arrays Based Sequence in python |[Day 6](#day-6) **12/05/19**|Arrays Based Sequence, Stack in python and leetcode problem on array |
 
 <a name="day-1"></a>
  
@@ -91,6 +91,28 @@
  - Read Chapter 5 On Array Based Sequence (Implemntation of Dynamic array, Sorting a sequence cryptography problem using list and Multidimensional data set) from Data Structures and Algorithms in Python by Goodrich
  
 
-**Link to work**: [N/A](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/array.ipynb)
+**Link to work**: [here](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/array.ipynb)
 
 [Table of Contents](#toc)
+
+<a name="day-6"></a>
+ 
+ 
+### Day 6: May 12, 2019 
+
+**Today's Focus**: Arrays Based Sequence, Stack in python and leetcode problem on array 
+
+**Details**:
+
+ - Learned various buildin array function like typecode buffer_info etc. and Tic Tac Toe Game 
+   impementation code
+ - Read Chapter 6 on Stack from Data Structures and Algorithms in Python by Goodrich(Introduction to  
+   stack,Simple Array Based Stack Implementation)
+ - Leetcode problem 3sums(medium level) NEED HELP (TLE)
+
+ 
+
+**Link to work**: [array](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/array.ipynb)[stack](#)
+
+[Table of Contents](#toc)
+
