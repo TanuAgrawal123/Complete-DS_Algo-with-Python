@@ -112,7 +112,7 @@
 
  
 
-**Link to work**: [array](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/array.ipynb)[stack](#)
+**Link to work**: [array](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/array.ipynb) | [stack](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/stack.ipynb)
 
 [Table of Contents](#toc)
 
