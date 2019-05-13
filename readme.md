@@ -7,6 +7,10 @@
 |[Day 1](#day-1) **07/05/19**| Object Oriented programming in python and leetcode problems on array|[Day 2](#day-2) **08/05/19**|Algorithm analysis and leetcode problems on array |
 |[Day 3](#day-3) **09/05/19**| Arrays Based Sequence in python and leetcode problems on array|[Day 4](#day-4) **10/05/19**|Arrays Based Sequence in python |
 |[Day 5](#day-5) **11/05/19**| Arrays Based Sequence in python |[Day 6](#day-6) **12/05/19**|Arrays Based Sequence, Stack in python and leetcode problem on array |
+|[Day 7](#day-7) **13/05/19**| Stack and Queue in python and medium level leetcode problem on array |[Day 8](#day-8) **14/05/19**| |
+
+
+
 
 <a name="day-1"></a>
  
@@ -112,7 +116,28 @@
 
  
 
-**Link to work**: [array](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/array.ipynb) | [stack](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/stack.ipynb)
+**Link to work**: [array](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/array.ipynb) | [stack](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/stack.ipynb) | [leetcode](https://leetcode.com/problems/3sum/)
+
+[Table of Contents](#toc)
+
+<a name="day-7"></a>
+ 
+ 
+### Day 7: May 13, 2019 
+
+**Today's Focus**: Stack and Queue in python and medium level leetcode problem on array
+
+**Details**:
+
+ - Applications of stack in matching parenthesis and HTML tags.
+ - Introduction of Queue , building FIFO and LIFO Queue using queue module, Array Based Queue 
+   Implementation, Circular Queue, shring the queue for robustness, Analyzing of timecomplexity of array based queue, Double Ended Queue- implementing deque by collections module and learned various buildin function.
+ - Leetcode Problem Find First and last position of ement insorted array having complexity O(logn) on 
+   array
+
+ 
+
+**Link to work**: [queue](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/queue.ipynb) | [stack](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/stack.ipynb) | [leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 [Table of Contents](#toc)
 
