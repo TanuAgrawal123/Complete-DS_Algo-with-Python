@@ -7,7 +7,7 @@
 |[Day 1](#day-1) **07/05/19**| Object Oriented programming in python and leetcode problems on array|[Day 2](#day-2) **08/05/19**|Algorithm analysis and leetcode problems on array |
 |[Day 3](#day-3) **09/05/19**| Arrays Based Sequence in python and leetcode problems on array|[Day 4](#day-4) **10/05/19**|Arrays Based Sequence in python |
 |[Day 5](#day-5) **11/05/19**| Arrays Based Sequence in python |[Day 6](#day-6) **12/05/19**|Arrays Based Sequence, Stack in python and leetcode problem on array |
-|[Day 7](#day-7) **13/05/19**| Stack and Queue in python and medium level leetcode problem on array |[Day 8](#day-8) **14/05/19**| |
+|[Day 7](#day-7) **13/05/19**| Stack and Queue in python and medium level leetcode problem on array |[Day 8](#day-8) **14/05/19**| Linked list in python and  leetcode problem on stack |
 
 
 
@@ -139,5 +139,23 @@
 
 **Link to work**: [queue](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/queue.ipynb) | [stack](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/stack.ipynb) | [leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
+[Table of Contents](#toc)
+
+
+<a name="day-8"></a>
+ 
+ 
+### Day 8: May 14, 2019 
+
+**Today's Focus**: Linked list in python and  leetcode problem on stack
+
+**Details**:
+
+ - Intoduction to Linked List, Singly Linked list(stack and Queue Implementation using linked list), Circular Linked List Robin Round scheduler 
+ - Leetcode Problem on stack (Remove outermost parenthesis)
+
+ 
+
+**Link to work**: [LinkedList](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/linkedlist.ipynb)
 [Table of Contents](#toc)
 
