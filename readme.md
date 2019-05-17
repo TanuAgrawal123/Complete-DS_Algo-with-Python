@@ -8,7 +8,7 @@
 |[Day 3](#day-3) **09/05/19**| Arrays Based Sequence in python and leetcode problems on array|[Day 4](#day-4) **10/05/19**|Arrays Based Sequence in python |
 |[Day 5](#day-5) **11/05/19**| Arrays Based Sequence in python |[Day 6](#day-6) **12/05/19**|Arrays Based Sequence, Stack in python and leetcode problem on array |
 |[Day 7](#day-7) **13/05/19**| Stack and Queue in python and medium level leetcode problem on array |[Day 8](#day-8) **14/05/19**| Linked list in python and  leetcode problem on stack |
-
+|[Day 9](#day-9) **15/05/19**| Linked List In python and tree data structure|[Day 10](#day-10) **16/05/19**| Tree Data Structure in python and  leetcode problem on stack |
 
 
 
@@ -161,3 +161,40 @@
 
 [Table of Contents](#toc)
 
+<a name="day-9"></a>
+ 
+ 
+### Day 9: May 15, 2019 
+
+**Today's Focus**: Linked list in python and tree data structure
+
+**Details**:
+
+ - Doubly linked list concept and code. Trees data structure introduction, terminology relared to tree ds, algo and analysis of finding height and depth of tree, General tree , binary tree concept.
+ 
+
+ 
+
+**Link to work**: [LinkedList](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/linkedlist.ipynb)
+
+
+[Table of Contents](#toc)
+
+
+<a name="day-10"></a>
+ 
+ 
+### Day 10: May 16, 2019 
+
+**Today's Focus**:  tree data structure in python and leetcode problem on stack
+
+**Details**:
+
+ - Implementation of Tree using linked list, Array based representation of binary tree, Tree Traversal Method(postorder, inorder, preorder), Breadth first Tree Traversal.
+ - Leetcode Problem on stack (Implement Stack using Queue)
+ 
+
+**Link to work**: [LinkedList](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/tree.ipynb)
+
+
+[Table of Contents](#toc)
