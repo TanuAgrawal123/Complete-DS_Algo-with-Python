@@ -9,6 +9,10 @@
 |[Day 5](#day-5) **11/05/19**| Arrays Based Sequence in python |[Day 6](#day-6) **12/05/19**|Arrays Based Sequence, Stack in python and leetcode problem on array |
 |[Day 7](#day-7) **13/05/19**| Stack and Queue in python and medium level leetcode problem on array |[Day 8](#day-8) **14/05/19**| Linked list in python and  leetcode problem on stack |
 |[Day 9](#day-9) **15/05/19**| Linked List In python and tree data structure|[Day 10](#day-10) **16/05/19**| Tree Data Structure in python and  leetcode problem on stack |
+|[Day 11](#day-11) **17/05/19**| tree data structure in python|[Day 12](#day-12) **19/05/19**| Tree Data Structure and priority queue in python |
+|[Day 13](#day-13) **20/05/19**| Bitwise programming, priority queue implementation, leetcode problem on bitwise programming|[Day 14](#day-14) **21/05/19**|  |
+
+
 
 
 
@@ -195,6 +199,65 @@
  
 
 **Link to work**: [LinkedList](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/tree.ipynb)
+
+
+[Table of Contents](#toc)
+
+
+
+<a name="day-11"></a>
+ 
+ 
+### Day 11: May 17, 2019 
+
+**Today's Focus**:  tree data structure in python 
+
+**Details**:
+
+ - Insertion in binary tree in level order, height of tree, code for level order tree traversal,
+ application of tree traversal, tree traversal implementation.
+
+**Link to work**: [LinkedList](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/tree.ipynb)
+
+
+[Table of Contents](#toc)
+
+<a name="day-12"></a>
+ 
+ 
+### Day 12: May 19, 2019 
+
+**Today's Focus**:  tree data structure and priority queue in python 
+
+**Details**:
+
+ - Expression Tree, evaluation of expression tree
+ - Narishmha Karumanchi books problem on trees.
+ - Priority Queue Introduction
+
+**Link to work**: [LinkedList](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/tree.ipynb)
+
+
+[Table of Contents](#toc)
+
+
+
+<a name="day-13"></a>
+ 
+ 
+### Day 13: May 20, 2019 
+
+**Today's Focus**:  Bitwise programming, priority queue implementation, leetcode problem on bitwise programming
+
+**Details**:
+
+ - Priority queue implementation(unordered array implementation, using PriorityQueue class),
+ - Bitwise programming(bitwise operator, code on checking the kth bit counting no of 1's toggling kth 
+   bit, checking poer of 2 etc.)
+ - leetcode problem on bitwise programming(Hamming bits, counting bits, number complement) 
+ 
+
+**Link to work**: [bitwise programming](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/bitwise.ipynb)
 
 
 [Table of Contents](#toc)
