@@ -10,7 +10,9 @@
 |[Day 7](#day-7) **13/05/19**| Stack and Queue in python and medium level leetcode problem on array |[Day 8](#day-8) **14/05/19**| Linked list in python and  leetcode problem on stack |
 |[Day 9](#day-9) **15/05/19**| Linked List In python and tree data structure|[Day 10](#day-10) **16/05/19**| Tree Data Structure in python and  leetcode problem on stack |
 |[Day 11](#day-11) **17/05/19**| tree data structure in python|[Day 12](#day-12) **19/05/19**| Tree Data Structure and priority queue in python |
-|[Day 13](#day-13) **20/05/19**| Bitwise programming, priority queue implementation, leetcode problem on bitwise programming|[Day 14](#day-14) **21/05/19**|  |
+|[Day 13](#day-13) **20/05/19**| Bitwise programming, priority queue implementation, leetcode problem on bitwise programming|[Day 14](#day-14) **21/05/19**| Heaps in python and leetcode problem on tree |
+|[Day 15](#day-15) **22/05/19**| Heap in python and leetcode problem on tree|[Day 16](#day-16) **23/05/19**| Maps and dictionaries in python and problems of leetcode on tree |
+[Day 17](#day-17) **24/05/19**| Hashing in python and leetcode problem on tree|[Day 18](#day-18) **25/05/19**|  |
 
 
 
@@ -134,7 +136,7 @@
 **Details**:
 
  - Applications of stack in matching parenthesis and HTML tags.
- - Introduction of Queue , building FIFO and LIFO Queue using queue module, Array Based Queue 
+ - Introduction of Queue , building/ FIFO and LIFO Queue using queue module, Array Based Queue 
    Implementation, Circular Queue, shring the queue for robustness, Analyzing of timecomplexity of array based queue, Double Ended Queue- implementing deque by collections module and learned various buildin function.
  - Leetcode Problem Find First and last position of ement insorted array having complexity O(logn) on 
    array
@@ -258,6 +260,90 @@
  
 
 **Link to work**: [bitwise programming](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/bitwise.ipynb)
+
+
+[Table of Contents](#toc)
+
+
+
+<a name="day-14"></a>
+ 
+ 
+### Day 14: May 21, 2019 
+
+**Today's Focus**:  Heap in python and leetcode problem on Tree
+
+**Details**:
+ -Heap in python, adding and removing item in heap, Min Heap Implenentation,
+ Analysis Of Heap Based Priority Queue
+ - leetcode problem on Tree(Merged Two Binary Tree) 
+ 
+
+**Link to work**: [Heap](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/heap.ipynb)
+
+
+[Table of Contents](#toc)
+
+
+
+<a name="day-15"></a>
+ 
+ 
+### Day 15: May 22, 2019 
+
+**Today's Focus**:  Heap in python and leetcode problem on Tree
+
+**Details**:
+
+ - Bottom up Heap Construction, Python Heapq module, Adapatable heap priority queue.
+
+ - leetcode problem on Tree(N-ary Tree pre Order and postorder Traversal, Univalued Binary Tree, Maximum Depth of N-ary Tree ) 
+ 
+
+**Link to work**: [Heap](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/heap.ipynb)
+
+
+[Table of Contents](#toc)
+
+
+
+
+<a name="day-16"></a>
+ 
+ 
+### Day 16: May 23, 2019 
+
+**Today's Focus**:  Maps And Dictionaries python and leetcode problem on Tree
+
+**Details**:
+
+- Dictionary Method, python Mutable mapping abstract base class(Mapping and MappingMutableClass), Map Base class, heirarachy of map types.
+-leetcode Problem on Tree(Maximum Binary Tree)
+
+ 
+
+**Link to work**: [maps and dictionaries](https://github.com/TanuAgrawal123/Round2_100DaysofCodeChallenge-DS_Algo/blob/master/map%20hash%20skip%20list.ipynb)
+
+
+[Table of Contents](#toc)
+
+
+<a name="day-17"></a>
+ 
+ 
+### Day 17: May 24, 2019 
+
+**Today's Focus**:  Hash Tables in python and leetcode problem on Tree.
+
+**Details**:
+
+- Hash Tables- Hash Function, Hash code,Compression Function, Collision Heading Scheme
+
+-leetcode Problem on Tree(Binary Tree Pruning)
+
+ 
+
+**Link to work**: [leetcode profile](https://leetcode.com/tanuagrawal/)
 
 
 [Table of Contents](#toc)
