@@ -75,6 +75,20 @@
   
   **Link To Work**:[here](https://github.com/TanuAgrawal123/Complete-DS_Algo-with-Python/blob/master/heap.ipynb)
  
+### Dynamic Programming and Tries(Basics):
+  - Fibnoccii series
+  - Rod Cutting Problem(Top Down and Bottom Up Approach)
+  - Longest Common Subsequence
+  - 0/1 Knapsack
+  - Fraction KnapSack Problem
+  - Subset Sum Problem
+  - Coin Changing Problem
+  - Tries(intro code)
+  - Matrix Chain Multiplication
+  - Job Scheduling (greedy Approach)
+  
+  **Link To Work**:[here](https://github.com/TanuAgrawal123/Complete-DS_Algo-with-Python/blob/master/dynamic%20programming.ipynb)
+ 
   
 
  
