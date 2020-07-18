@@ -1,6 +1,6 @@
 
 # DS ALGO With Python 
-# Data Structure And Algorithm Iplementation in Python
+# Data Structure And Algorithm Implementation in Python
  
 
 ## Topics:
